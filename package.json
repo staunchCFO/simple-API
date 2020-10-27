@@ -1,0 +1,17 @@
+{
+  "name": "easy-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "http-errors": "~1.6.3",
+    "mongoose": "^5.10.10"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
